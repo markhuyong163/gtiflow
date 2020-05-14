@@ -5,3 +5,5 @@ gitflow test
 # gitflowtest-feat three
 # gitflowtest-two one
 # gitflowtest-two two
+# gitflowtest-three
+# gitflowtest-three two
